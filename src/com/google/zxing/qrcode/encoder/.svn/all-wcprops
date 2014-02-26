@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/qrcode/encoder
+END
+QRCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/qrcode/encoder/QRCode.java
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/qrcode/encoder/Encoder.java
+END
+MatrixUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/qrcode/encoder/MatrixUtil.java
+END
+BlockPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/qrcode/encoder/BlockPair.java
+END
+ByteMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/qrcode/encoder/ByteMatrix.java
+END
+MaskUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/qrcode/encoder/MaskUtil.java
+END

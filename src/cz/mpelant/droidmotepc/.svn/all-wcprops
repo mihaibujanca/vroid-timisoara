@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/29/trunk/Droidmote%20client/src/cz/mpelant/droidmotepc
+END
+SharedPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14/trunk/Droidmote%20client/src/cz/mpelant/droidmotepc/SharedPreferences.java
+END
+Utf8ResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/15/trunk/Droidmote%20client/src/cz/mpelant/droidmotepc/Utf8ResourceBundle.java
+END
+QRGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/Droidmote%20client/src/cz/mpelant/droidmotepc/QRGenerator.java
+END
+QRWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17/trunk/Droidmote%20client/src/cz/mpelant/droidmotepc/QRWindow.java
+END
+Keys.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/trunk/Droidmote%20client/src/cz/mpelant/droidmotepc/Keys.java
+END
+MainWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/29/trunk/Droidmote%20client/src/cz/mpelant/droidmotepc/MainWindow.java
+END
+ServerTCP.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/Droidmote%20client/src/cz/mpelant/droidmotepc/ServerTCP.java
+END
+InputSimulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/Droidmote%20client/src/cz/mpelant/droidmotepc/InputSimulator.java
+END
+ServerUDP.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14/trunk/Droidmote%20client/src/cz/mpelant/droidmotepc/ServerUDP.java
+END
+Commands.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14/trunk/Droidmote%20client/src/cz/mpelant/droidmotepc/Commands.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/trunk/Droidmote%20client/src/cz/mpelant/droidmotepc/Main.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/Droidmote%20client/src/cz/mpelant/droidmotepc/Server.java
+END

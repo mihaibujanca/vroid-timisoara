@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/client/result/optional
+END
+AbstractNDEFResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/client/result/optional/AbstractNDEFResultParser.java
+END
+NDEFSmartPosterResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/client/result/optional/NDEFSmartPosterResultParser.java
+END
+NDEFTextResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/client/result/optional/NDEFTextResultParser.java
+END
+NDEFSmartPosterParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/client/result/optional/NDEFSmartPosterParsedResult.java
+END
+NDEFURIResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/client/result/optional/NDEFURIResultParser.java
+END
+NDEFRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/client/result/optional/NDEFRecord.java
+END

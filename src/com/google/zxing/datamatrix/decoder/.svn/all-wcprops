@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/datamatrix/decoder
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/datamatrix/decoder/DecodedBitStreamParser.java
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/datamatrix/decoder/BitMatrixParser.java
+END
+DataBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/datamatrix/decoder/DataBlock.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/datamatrix/decoder/Version.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/Droidmote%20client/src/com/google/zxing/datamatrix/decoder/Decoder.java
+END
